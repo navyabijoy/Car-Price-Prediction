@@ -9,7 +9,6 @@ This project is a web application that predicts the selling price of a car based
 - [Features](#features)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -93,6 +92,3 @@ The model is trained using a RandomForestRegressor on the provided dataset. To t
 
 Contributions are welcome! Please fork this repository and open a pull request to add more features or improve the code.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
